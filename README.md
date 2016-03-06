@@ -1,2 +1,2 @@
-# LBDownLoadRefreshControlForSwift
+# LBDownLoadRefreshControlForSwift 下拉刷新控件
 Swift版本的一个下拉刷新控件
